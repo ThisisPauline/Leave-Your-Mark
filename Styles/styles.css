@@ -227,6 +227,10 @@ button.clear {
   color: #0b090a;
 }
 
+.footerCall a{
+  color: #0b090a; 
+}
+
 .footerCallContainer {
   display: flex;
   flex-wrap: wrap;
@@ -350,4 +354,6 @@ button.clear {
     width: 50px;
     border-radius: 50%;
   }
+
+  
 }
