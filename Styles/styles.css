@@ -110,7 +110,7 @@ button.clear {
 
 /*header*/
 .header {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -137,7 +137,7 @@ button.clear {
 
 .firstP {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   margin-top: 0;
@@ -238,8 +238,7 @@ button.clear {
     margin-left: 1px;
   }
 
-
-  .headerContainer{
+  .headerContainer {
     display: flex;
     flex-direction: column;
   }
@@ -269,14 +268,8 @@ button.clear {
     position: relative;
     width: 100%;
     height: 100%;
-    
   }
 
-
-  .trail {
-
-   
-  }
   .cursor {
     display: none;
   }
@@ -318,9 +311,8 @@ button.clear {
     align-items: center;
   }
 
-  .thirdTextContainer{
+  .thirdTextContainer {
     margin-left: 0;
-    
   }
 
   .thirdImageContainer img {
@@ -337,8 +329,8 @@ button.clear {
     margin-bottom: 40%;
   }
 
-  .footerCall a{
-    color:#0b090a;
+  .footerCall a {
+    color: #0b090a;
   }
   .progress-bar-container {
     position: fixed;
@@ -347,9 +339,8 @@ button.clear {
     left: 43.5%;
     width: 10px;
     height: 100%;
-   
   }
-  
+
   .progress-bar {
     margin-top: 20px;
     height: 50px;
@@ -357,9 +348,4 @@ button.clear {
     width: 50px;
     border-radius: 50%;
   }
-  
-
-  }
-  
-  
-
+}
