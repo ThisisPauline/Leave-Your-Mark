@@ -1,6 +1,6 @@
 # Leave Your Mark | design studio and visual lab
 
-![mockup](https://i.imgur.com/mmWK4yz.jpg)
+![mockup](https://i.imgur.com/SeIV9sp.jpg)
 
 
 ## Introduction
